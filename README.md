@@ -34,7 +34,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
 9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+    Create a comprehensive document outlining the steps you've taken to  set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
@@ -52,3 +52,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+ANSWERS AND SUBMISSION TO THE  ASSIGMENT
+
+https://docs.google.com/document/d/1tAL6hMUfa2wsJ2XueSz5Qc7ZOVq3DJ_D12Gwgwffczg/edit?usp=sharinghttps://docs.google.com/document/d/1tAL6hMUfa2wsJ2XueSz5Qc7ZOVq3DJ_D12Gwgwffczg/edit?usp=sharing THE LINK IS ABOVE IS RIDERICTION
